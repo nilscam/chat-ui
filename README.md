@@ -1,11 +1,10 @@
-# Index sample
-
-## Setup
-
-Replace [APP_ID](src/components/ChannelController.vue) and [APP_ID](src/components/ChannelController.vue) with yours
 
 ## Run
 
 ```shell
+$ cd chat-ui
+
+$ npm install
+
 $ npm run serve
 ```
